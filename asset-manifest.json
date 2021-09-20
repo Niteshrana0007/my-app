@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.016259e9.chunk.css",
+    "main.js": "/my-app/static/js/main.5e322055.chunk.js",
+    "main.js.map": "/my-app/static/js/main.5e322055.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.7465c422.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.7465c422.js.map",
+    "static/css/2.818011ed.chunk.css": "/my-app/static/css/2.818011ed.chunk.css",
+    "static/js/2.69a24031.chunk.js": "/my-app/static/js/2.69a24031.chunk.js",
+    "static/js/2.69a24031.chunk.js.map": "/my-app/static/js/2.69a24031.chunk.js.map",
+    "static/js/3.78f1ff38.chunk.js": "/my-app/static/js/3.78f1ff38.chunk.js",
+    "static/js/3.78f1ff38.chunk.js.map": "/my-app/static/js/3.78f1ff38.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/my-app/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.016259e9.chunk.css.map": "/my-app/static/css/main.016259e9.chunk.css.map",
+    "static/js/2.69a24031.chunk.js.LICENSE.txt": "/my-app/static/js/2.69a24031.chunk.js.LICENSE.txt",
+    "static/media/MacBook-1.1132be30.png": "/my-app/static/media/MacBook-1.1132be30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7465c422.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.69a24031.chunk.js",
+    "static/css/main.016259e9.chunk.css",
+    "static/js/main.5e322055.chunk.js"
+  ]
+}
