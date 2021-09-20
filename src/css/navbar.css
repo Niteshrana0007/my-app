@@ -1,0 +1,233 @@
+
+
+.navbar-Header{
+
+    background-color: #7352FF;
+}
+#navlinks{
+
+    color: #FFFFFF;
+}
+#book-trial-btn{
+
+    background-color: #7352FF;
+    border: 2px solid azure !important;
+    
+    
+    padding: 1px 1px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+#reactangle{
+
+    /* Rectangle 118 */
+
+    position: relative;
+    width: 100%;
+    height: 460px;
+    left: px;
+    top: px;
+    background: linear-gradient(90deg, #7352FF 0%, #7552FF 0.01%, #7352FF 0.02%, #7F52FF 49.48%, #7552FF 99.99%, #7352FF 100%);
+
+}
+
+#inside-118{
+    
+    /* Start your day with the goodness of Yoga */
+
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    /* left: 322px; */
+    top: 120px;
+
+    font-family: Sombra;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    /* font-size: 8vw; */
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+}
+
+#rectangle-221{
+
+    top: 0px;
+    margin:2px;
+    padding: 2px;
+    height: 336px;
+    border-radius: 0px 0px 9px 9px;
+    
+    /* Rectangle 221 */
+
+    /* position: absolute;
+    width: 1343px;
+    height: 711px;
+    left: 12px;
+    top: 1307px;
+
+    background: #191919;
+    border-radius: 0px 0px 9px 9px; */
+
+}
+#img2-div {
+
+    /* BROWSE ALL MY OFFERINGS */
+
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: Sombra;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 41px;
+    letter-spacing: 0.03em;
+} 
+#centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#centered2 {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 290px;
+    transform: translate(-50%, -50%);
+    background: rgba(64, 64, 64, 0.3);
+    border-radius: 9px;
+}
+#centered3 {
+    
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    padding-left: 130px;
+    height: 100px;
+    width: 40%;
+    transform: translate(-50%, -50%);
+    background: rgba(64, 64, 64, 0.3);
+    border-radius: 9px;
+    border-radius: 9px;
+}
+#centered4 {
+    
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    height: 100px;
+    width: 20%;
+    transform: translate(-1%, -50%);
+    background: rgba(64, 64, 64, 0.3);
+    border-radius: 9px;
+}
+
+
+
+#left-items{
+
+    /* Powered by */
+
+    position: static;
+    width: 146px;
+    height: 27px;
+    left: 24px;
+    top: 2082px;
+
+    font-family: Sombra;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF !important;
+
+
+}
+
+#right-items{
+
+    /* Bread 2021 All rights reserved */
+
+    position: static;
+    float: right;
+    text-align: left;
+    width: 218px;
+    height: 20px;
+    left: 0px;
+    top: 2087px;
+
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+
+
+}
+#footer{
+
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    #centered2 {
+        width: 90%;  
+    }
+    #centered3{
+        display: none;
+    }
+    #centered4{
+        display: none;
+    }
+    #img-over-reactangle{
+        display: none;
+    }
+
+  }
+#links-footer a{
+     
+    float: right;
+    color: #ffffff;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 30px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
